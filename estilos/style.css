@@ -8,6 +8,10 @@
 header {
     background-color: #F79413;
     box-shadow: 1px 1px 10px #4646466e;
+    background-image:linear-gradient( to bottom, var(--cor3), var(--cor5));
+    min-height: 150px;
+    text-align: center;
+    padding-top: 40px;
 }
 
 .nav-bar {
@@ -26,6 +30,9 @@ header {
 
 .logo h1 {
     color: #fff;
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-weight: normal;
 }
 
 .nav-list {
@@ -150,6 +157,8 @@ article > h2{
     padding: 3px;
     border-radius: 5px 0px;
     max-width: 700px;
+    font-weight: normal;
+    font-size: 1.1em
 
 }
 
@@ -173,12 +182,13 @@ aside > img{
 aside > p{
     font-weight: 500;
     font-size: 18px;
+    
 }
 
 .history{
     line-height: 35px;
     margin-top: 100px;
-    max-width: 1000px;
+    max-width: 800px;
     margin: auto;
    background-color: #f7941352;
    border-radius: 15px 15px 0px 0px;
@@ -191,10 +201,13 @@ aside > p{
     margin-top: 100px;
     margin-bottom: 30px;
     font-weight: bold;
+    font-size: 1.5em;
+    font-weight: normal;
+
     background-color: #F79413;
     text-align: center;
-    padding: 15px;
-    border-radius: 5px;
+    padding: 5px;
+    border-radius: 0px 0px 5px 5px;
     color: white;
   
 }
@@ -203,9 +216,14 @@ aside > p{
     margin-top: 15px;
 }
 .history p{
-    font-size: 20px;
+    margin: 15px 0px 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 2em;
+    padding: 2px 4px;
+    
     font-weight: 500;
- text-align: justify;
+    text-align: justify;
     
 }
 
@@ -214,6 +232,7 @@ aside > p{
     color: black;
     font-weight: 500;
     font-size: 20px;
+    font-size: 16px;
 
     
 }
