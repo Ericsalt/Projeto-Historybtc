@@ -264,12 +264,14 @@ a.linka::after{
         font-weight: bold;
         color: #F79413;
         
+        
     }
 
     .buy img{
         max-width: 100%;
         height: auto;
         border-radius: 10px;
+        width: 600px;
     }
 
     .buy p{
@@ -278,6 +280,8 @@ a.linka::after{
         font-weight: 500;
         color: #F79413;
         margin-bottom: 30px;
+        font-size: 1.5em;
+        font-weight: normal;
 
     }
 
