@@ -24,3 +24,9 @@ O menu de navegação adota o formato de "hamburger" em dispositivos móveis, pr
  
 <br> 
 - [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Historybtc/)
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Eric Salgado
