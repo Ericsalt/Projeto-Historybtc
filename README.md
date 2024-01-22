@@ -14,15 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-<br>  
-Design Responsivo
-O site foi desenvolvido com design responsivo para proporcionar uma experiência otimizada em diferentes dispositivos, desde smartphones até desktops. O layout se ajusta automaticamente para garantir a melhor visualização e interação em qualquer tela.
-
-<br> 
-Menu Hamburger
-O menu de navegação adota o formato de "hamburger" em dispositivos móveis, proporcionando uma navegação intuitiva e elegante. Toque no ícone de menu para acessar as seções do site de forma rápida e fácil
- 
-<br> 
 - [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Historybtc/)
 
 Esse projeto está sob a licença MIT.
